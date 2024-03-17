@@ -1,0 +1,5 @@
+colorama
+discord_webhook
+pystyle
+PyYAML
+Telethon
