@@ -2,7 +2,7 @@
 
 Welcome to Shillify Telegram, your reliable tool for broadcasting messages to your Telegram groups! Shillify Telegram not only sends messages to all your groups but can also join and leave groups (though this feature is not recommended due to Telegram banning rules).
 
-## 🚀 Getting Started UPDATED 5.5.24
+## 🚀 Getting Started UPDATED 5.7.24
 
 Setting up Shillify Telegram is a breeze! Follow these steps to get your advertiser up and running:
 
